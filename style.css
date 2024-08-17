@@ -1,0 +1,28 @@
+
+
+
+.ccontainer {
+    background-image: url(./img/valami.webp);
+    background-size: cover;
+
+    padding: 20px;
+    min-height: 600px;
+}
+
+
+.Alacsony {
+    border: 2px solid green !important;
+}
+
+.Közepes {
+    border: 2px solid rgb(250, 250, 36) !important;
+}
+
+.Magas {
+    border: 2px solid red !important;
+}
+
+.bgc {
+    background-color: #c7c7c7;
+}
+
