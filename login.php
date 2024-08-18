@@ -98,7 +98,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['register'])) {
 
         $conn->close();
     } else {
-        $error = 'Jelszavak nem eggyeznek.';
+        $error = 'Jelszavak nem egyeznek.';
     }
 }
 
